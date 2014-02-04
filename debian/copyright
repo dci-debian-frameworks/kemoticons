@@ -1,0 +1,64 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: kemoticons
+Source: https://projects.kde.org/projects/frameworks/kemoticons
+
+Files: *
+       debian/* 
+Copyright: © 2007-2008 Carlo Segato <brandon.ml@gmail.com>
+           © 2002-2008 Kopete <kopete-devel@kde.org>
+           © 2005 Duncan Mac-Vicar <duncan@kde.org>
+           © 2002-2003 Stefan Gehn <metz@gehn.net>
+           © 2005 Engin AYDOGAN <engin@bzzzt.biz>
+           © 2004 Richard Smith <kde@metafoo.co.uk>
+           © 2008 Montel Laurent <montel@kde.org>
+           © 2006 Michael Larouche <larouche@kde.org>
+             2014 Scarlett Clark <scarlett@scarlettgatelyclark.com> 
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+ 
+Files: src/core/* excluding:
+       -? src/core/CMakeLists.txt
+       src/providers/adium/* excluding:
+       -? src/providers/adium/CMakeLists.txt
+       src/providers/kde/* excluding:
+       -? src/providers/kde/CMakeLists.txt
+       src/providers/pidgin/* excluding:
+       -? src/providers/pidgin/CMakeLists.txt
+       src/providers/xmpp/* excluding:
+       -? src/providers/xmpp/CMakeLists.txt
+Copyright: © 2007-2008 Carlo Segato <brandon.ml@gmail.com>
+           © 2002-2008 Kopete <kopete-devel@kde.org>
+           © 2005 Duncan Mac-Vicar <duncan@kde.org>
+           © 2002-2003 Stefan Gehn <metz@gehn.net>
+           © 2005 Engin AYDOGAN <engin@bzzzt.biz>
+           © 2004 Richard Smith <kde@metafoo.co.uk>
+           © 2008 Montel Laurent <montel@kde.org>
+           © 2006 Michael Larouche <larouche@kde.org>
+License: LGPL-2.1+
+   This library is free software; you can redistribute it and/or
+   modify it under the terms of the GNU Lesser General Public
+   License as published by the Free Software Foundation; either
+   version 2.1 of the License, or (at your option) any later version.
+ .
+   This library is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+   Lesser General Public License for more details.
+ .
+  On Debian systems, the complete text of the
+  GNU Lesser General Public License version 2.1 can be found in
+  /usr/share/common-licenses/LGPL-2.1
