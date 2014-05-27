@@ -1,8 +1,9 @@
-kemoticons (4.99.0-0ubuntu1) UNRELEASED; urgency=medium
+kemoticons (4.99.0-0ubuntu1) trusty; urgency=medium
 
+  [ Jonathan Riddell ]
   * New upstream beta release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 05 May 2014 15:39:52 +0100
+ -- José Manuel Santamaría Lema <panfaust@gmail.com>  Tue, 27 May 2014 19:05:14 +0200
 
 kemoticons (4.98.0-0ubuntu1) trusty; urgency=medium
 
