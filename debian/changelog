@@ -5,7 +5,9 @@ kemoticons (4.100.0-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Scarlett Clark ]
   * Bump depends versions
-  * Bump depends versions
+
+  [ Philip Muškovac ]
+  * Add symbols of embedded libs to libkf5emoticons5.symbols
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 02 Jun 2014 13:38:37 +0100
 
