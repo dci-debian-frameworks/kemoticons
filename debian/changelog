@@ -14,6 +14,9 @@ kemoticons (4.100.0-0ubuntu1) UNRELEASED; urgency=medium
     releases older than trusty
   * Remove incorrect Section fields
 
+  [ José Manuel Santamaría Lema ]
+  * Create -bin and -data packages to provide runtime and data files.
+
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 02 Jun 2014 13:38:37 +0100
 
 kemoticons (4.99.0-0ubuntu1) trusty; urgency=medium
