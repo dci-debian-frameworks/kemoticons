@@ -52,24 +52,9 @@ Description: Support for emoticons and emoticons themes.
  .
  This package contains the runtime files.
 
-Package: libkf5emoticons-data
-Architecture: all
-Depends: ${misc:Depends}
-Multi-Arch: foreign
-Breaks: libkf5emoticons5 (<= 4.100.0-0ubuntu1~ubuntu14.10~ppa1)
-Replaces: libkf5emoticons5 (<= 4.100.0-0ubuntu1~ubuntu14.10~ppa1)
-Description: Support for emoticons and emoticons themes.
- This class can be used to retrieve, install,
- create emoticons theme. It can also be used to
- set the emoticon theme and the parse mode in the
- config file.
- .
- This package contains the data files.
-
 Package: libkf5emoticons5
 Architecture: any
-Depends: libkf5emoticons-data (= ${source:Version}),
-         ${misc:Depends},
+Depends: ${misc:Depends},
          ${shlibs:Depends}
 Recommends: libkf5emoticons-bin (= ${binary:Version})
 Description: Support for emoticons and emoticons themes.
