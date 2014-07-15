@@ -79,15 +79,3 @@ libKF5Emoticons.so.5 libkf5emoticons5 #MINVER#
  _ZTS18KEmoticonsProvider@Base 4.96.0
  _ZTV10KEmoticons@Base 4.96.0
  _ZTV18KEmoticonsProvider@Base 4.96.0
-adium.so libkf5emoticons5 #MINVER#
- qt_plugin_instance@Base 4.100.0
- qt_plugin_query_metadata@Base 4.100.0
-kde.so libkf5emoticons5 #MINVER#
- qt_plugin_instance@Base 4.100.0
- qt_plugin_query_metadata@Base 4.100.0
-pidgin.so libkf5emoticons5 #MINVER#
- qt_plugin_instance@Base 4.100.0
- qt_plugin_query_metadata@Base 4.100.0
-xmpp.so libkf5emoticons5 #MINVER#
- qt_plugin_instance@Base 4.100.0
- qt_plugin_query_metadata@Base 4.100.0
