@@ -1,3 +1,10 @@
+kemoticons (5.0.0-0ubuntu1.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Remove spurious symbols from symbols file.
+
+ -- José Manuel Santamaría Lema <panfaust@gmail.com>  Wed, 16 Jul 2014 00:05:41 +0200
+
 kemoticons (5.0.0-0ubuntu1) utopic; urgency=medium
 
   * Initial stable upstream release
