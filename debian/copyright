@@ -30,16 +30,11 @@ License: GPL-2+
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
 
-Files: src/core/* excluding:
-       -? src/core/CMakeLists.txt
-       src/providers/adium/* excluding:
-       -? src/providers/adium/CMakeLists.txt
-       src/providers/kde/* excluding:
-       -? src/providers/kde/CMakeLists.txt
-       src/providers/pidgin/* excluding:
-       -? src/providers/pidgin/CMakeLists.txt
-       src/providers/xmpp/* excluding:
-       -? src/providers/xmpp/CMakeLists.txt
+Files: src/core/* 
+       src/providers/adium/* 
+       src/providers/kde/* 
+       src/providers/pidgin/* 
+       src/providers/xmpp/* 
 Copyright: © 2007-2008 Carlo Segato <brandon.ml@gmail.com>
            © 2002-2008 Kopete <kopete-devel@kde.org>
            © 2005 Duncan Mac-Vicar <duncan@kde.org>

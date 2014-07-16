@@ -1,7 +1,11 @@
 kemoticons (5.0.0-0ubuntu1.1) UNRELEASED; urgency=medium
 
+  [ José Manuel Santamaría Lema ]
   * Non-maintainer upload.
   * Remove spurious symbols from symbols file.
+
+  [ Scarlett Clark ]
+  * Cleanup copyright-helper cruft from copyright file. 
 
  -- José Manuel Santamaría Lema <panfaust@gmail.com>  Wed, 16 Jul 2014 00:05:41 +0200
 
