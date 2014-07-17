@@ -3,7 +3,6 @@ Upstream-Name: kemoticons
 Source: https://projects.kde.org/projects/frameworks/kemoticons
 
 Files: *
-       debian/*
 Copyright: 2007-2008 Carlo Segato <brandon.ml@gmail.com>
            2002-2008 Kopete <kopete-devel@kde.org>
            2005 Duncan Mac-Vicar <duncan@kde.org>
@@ -12,7 +11,6 @@ Copyright: 2007-2008 Carlo Segato <brandon.ml@gmail.com>
            2004 Richard Smith <kde@metafoo.co.uk>
            2008 Montel Laurent <montel@kde.org>
            2006 Michael Larouche <larouche@kde.org>
-           2014 Scarlett Clark <scarlett@scarlettgatelyclark.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -35,6 +33,7 @@ Files: src/core/*
        src/providers/kde/* 
        src/providers/pidgin/* 
        src/providers/xmpp/* 
+       debian/*
 Copyright: 2007-2008 Carlo Segato <brandon.ml@gmail.com>
            2002-2008 Kopete <kopete-devel@kde.org>
            2005 Duncan Mac-Vicar <duncan@kde.org>
@@ -43,6 +42,7 @@ Copyright: 2007-2008 Carlo Segato <brandon.ml@gmail.com>
            2004 Richard Smith <kde@metafoo.co.uk>
            2008 Montel Laurent <montel@kde.org>
            2006 Michael Larouche <larouche@kde.org>
+           2014 Scarlett Clark <scarlett@scarlettgatelyclark.com>
 License: LGPL-2.1+
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Lesser General Public
