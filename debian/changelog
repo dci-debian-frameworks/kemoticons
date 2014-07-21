@@ -15,4 +15,8 @@ kemoticons (5.0.0-0ubuntu1) utopic; urgency=medium
 
   * Initial stable upstream release
 
+  [ José Manuel Santamaría Lema ]
+  * Remove spurious symbols from symbols file.
+
  -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Tue, 15 Jul 2014 13:38:45 +0200
+
