@@ -6,7 +6,8 @@
 </version>
 
 <headers>
-    /usr/include/KF5/Emoticons/
+    /usr/include/KF5/KEmoticons/
+    /usr/include/KF5/kemoticons_version.h
 </headers>
 
 <libs>

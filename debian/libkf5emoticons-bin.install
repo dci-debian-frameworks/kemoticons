@@ -1,1 +1,2 @@
-usr/lib/*/qt5/*
+usr/lib/*/qt5/plugins/kf5/emoticonsthemes/
+usr/lib/*/qt5/plugins/kf5/KEmoticonsIntegrationPlugin.so
