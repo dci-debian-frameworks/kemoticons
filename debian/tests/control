@@ -1,8 +1,8 @@
-# Tests: testsuite
-# Depends: @builddeps@, build-essential,
-#          xvfb, xauth, dbus-x11, openbox,
-#          kded5
-# Restrictions: rw-build-tree
+Tests: testsuite
+Depends: @builddeps@, build-essential,
+         xvfb, xauth, dbus-x11, openbox,
+         kded5
+Restrictions: rw-build-tree
 
 Tests: acc
 Depends: @, dh-acc, exuberant-ctags
