@@ -26,6 +26,8 @@ Depends: libkf5archive-dev (>= 5.13.0~),
          libkf5service-dev (>= 5.13.0~),
          qtbase5-dev (>= 5.4),
          ${misc:Depends}
+Breaks: libkf5emoticons-bin (<< 5.12.0~)
+Replaces: libkf5emoticons-bin (<< 5.12.0~)
 Description: Support for emoticons and emoticons themes.
  This class can be used to retrieve, install,
  create emoticons theme. It can also be used to
