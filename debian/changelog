@@ -1,3 +1,9 @@
+kemoticons (5.17.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.17.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Dec 2015 14:18:33 +0100
+
 kemoticons (5.16.0-2) unstable; urgency=medium
 
   * Add libkf5emoticons-bin to libkf5emoticons5.symbols dependency list
