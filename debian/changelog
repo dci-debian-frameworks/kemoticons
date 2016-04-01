@@ -1,3 +1,20 @@
+kemoticons (5.20.0-1~1.gbp3d441f) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @3d441f956301a6f688dd439416c0e6d15e4d4282 **
+
+  [ Maximiliano Curia ]
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 30 Mar 2016 10:18:22 +0200
+
 kemoticons (5.19.0-1) experimental; urgency=medium
 
   * New upstream release (5.19.0).
