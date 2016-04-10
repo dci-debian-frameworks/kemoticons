@@ -1,6 +1,6 @@
-kemoticons (5.20.0-1~3.gbp3a6ab6) UNRELEASED; urgency=medium
+kemoticons (5.21.0-1~1.gbp146e7c) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @3a6ab66202b1dd3e4cc8fc0fc8a0e577daf7f71d **
+  ** SNAPSHOT build @146e7cda030da794bd5478af1f039c7c24377b6f **
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
@@ -14,8 +14,14 @@ kemoticons (5.20.0-1~3.gbp3a6ab6) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * Update acc test script
   * UNRELEASED
+  * uscan no longer supports more than one main upstream tarball being listed
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Fri, 01 Apr 2016 17:18:26 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 10 Apr 2016 10:18:18 +0200
 
 kemoticons (5.19.0-1) experimental; urgency=medium
 
