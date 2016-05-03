@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 4.96.0 amd64
-libKF5Emoticons.so.5 libkf5emoticons5 #MINVER#
+libKF5Emoticons.so.5 libkf5emoticons5 #MINVER#, libkf5emoticons-bin
  _ZN10KEmoticons11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
  _ZN10KEmoticons11qt_metacastEPKc@Base 4.96.0
  _ZN10KEmoticons12installThemeERK7QString@Base 4.96.0

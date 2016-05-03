@@ -10,6 +10,19 @@ kemoticons (5.20.0-0neon) wily; urgency=medium
 
  -- Neon CI <neon@kde.org>  Fri, 01 Apr 2016 11:06:00 +0000
 
+kemoticons (5.19.0-1) experimental; urgency=medium
+
+  * New upstream release (5.19.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 15:16:19 +0100
+
+kemoticons (5.18.0-1) experimental; urgency=medium
+
+  * New upstream release (5.17.0).
+  * New upstream release (5.18.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 13:34:05 +0100
+
 kemoticons (5.18.0-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Scarlett Clark ]
@@ -19,6 +32,13 @@ kemoticons (5.18.0-0ubuntu1) UNRELEASED; urgency=medium
   * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Wed, 06 Jan 2016 15:00:44 +0100
+
+kemoticons (5.16.0-2) unstable; urgency=medium
+
+  * Add libkf5emoticons-bin to libkf5emoticons5.symbols dependency list
+  * Add myself to uploaders
+
+ -- Diane Trout <diane@ghic.org>  Sat, 05 Dec 2015 11:28:07 -0800
 
 kemoticons (5.16.0-1) unstable; urgency=medium
 
