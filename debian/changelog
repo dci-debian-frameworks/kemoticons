@@ -1,6 +1,6 @@
-kemoticons (5.21.0-1~1.gbp146e7c) UNRELEASED; urgency=medium
+kemoticons (5.21.0-1~2.gbp4e6a47) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @146e7cda030da794bd5478af1f039c7c24377b6f **
+  ** SNAPSHOT build @4e6a472740956766f6ceb32c74107a6ef697e1ef **
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
@@ -10,6 +10,7 @@ kemoticons (5.21.0-1~1.gbp146e7c) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
   * Update acc test script
@@ -21,7 +22,7 @@ kemoticons (5.21.0-1~1.gbp146e7c) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 10 Apr 2016 10:18:18 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 07 May 2016 21:27:37 +0200
 
 kemoticons (5.19.0-1) experimental; urgency=medium
 
