@@ -1,28 +1,17 @@
-kemoticons (5.21.0-1~2.gbp4e6a47) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @4e6a472740956766f6ceb32c74107a6ef697e1ef **
+kemoticons (5.21.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Update acc test script
+  * uscan no longer supports more than one main upstream tarball being listed
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
   * Bump Standards-Version to 3.9.8
 
-  [ Maximiliano Curia ]
-  * Update acc test script
-  * UNRELEASED
-  * uscan no longer supports more than one main upstream tarball being listed
-
-  [ Automatic packaging ]
-  * Update build-deps and deps with the info from cmake
-
-  [ Maximiliano Curia ]
-
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 07 May 2016 21:27:37 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 10 May 2016 14:38:02 +0200
 
 kemoticons (5.19.0-1) experimental; urgency=medium
 
