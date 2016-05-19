@@ -1,10 +1,9 @@
-kemoticons (5.22.0-1~1.gbpcf10e5) UNRELEASED; urgency=medium
+kemoticons (5.22.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @cf10e5916f42209d8192822feb51d11aa25635df **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sun, 15 May 2016 18:18:19 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 19 May 2016 17:22:27 +0200
 
 kemoticons (5.21.0-1) experimental; urgency=medium
 
