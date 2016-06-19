@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4.96.0 amd64
+# SymbolsHelper-Confirmed: 5.23.0 amd64 armhf i386
 libKF5Emoticons.so.5 libkf5emoticons5 #MINVER#, libkf5emoticons-bin
  _ZN10KEmoticons11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
  _ZN10KEmoticons11qt_metacastEPKc@Base 4.96.0
@@ -6,6 +6,7 @@ libKF5Emoticons.so.5 libkf5emoticons5 #MINVER#, libkf5emoticons-bin
  _ZN10KEmoticons12setParseModeE6QFlagsIN15KEmoticonsTheme13ParseModeEnumEE@Base 4.96.0
  _ZN10KEmoticons16currentThemeNameEv@Base 4.96.0
  _ZN10KEmoticons16staticMetaObjectE@Base 4.96.0
+ _ZN10KEmoticons24setPreferredEmoticonSizeERK5QSize@Base 5.23.0
  _ZN10KEmoticons8newThemeERK7QStringRK28QExplicitlySharedDataPointerI8KServiceE@Base 4.96.0
  _ZN10KEmoticons8setThemeERK15KEmoticonsTheme@Base 4.96.0
  _ZN10KEmoticons8setThemeERK7QString@Base 4.96.0
@@ -50,6 +51,7 @@ libKF5Emoticons.so.5 libkf5emoticons5 #MINVER#, libkf5emoticons-bin
  _ZN18KEmoticonsProvider17clearEmoticonsMapEv@Base 4.96.0
  _ZN18KEmoticonsProvider18removeEmoticonsMapE7QString@Base 4.96.0
  _ZN18KEmoticonsProvider19removeEmoticonIndexERK7QStringRK11QStringList@Base 4.96.0
+ _ZN18KEmoticonsProvider24setPreferredEmoticonSizeERK5QSize@Base 5.23.0
  _ZN18KEmoticonsProvider4saveEv@Base 4.96.0
  _ZN18KEmoticonsProvider9createNewEv@Base 4.96.0
  _ZN18KEmoticonsProviderC1EP7QObject@Base 4.96.0
@@ -58,6 +60,7 @@ libKF5Emoticons.so.5 libkf5emoticons5 #MINVER#, libkf5emoticons-bin
  _ZN18KEmoticonsProviderD1Ev@Base 4.96.0
  _ZN18KEmoticonsProviderD2Ev@Base 4.96.0
  _ZNK10KEmoticons10metaObjectEv@Base 4.96.0
+ _ZNK10KEmoticons21preferredEmoticonSizeEv@Base 5.23.0
  _ZNK10KEmoticons5themeERK7QString@Base 4.96.0
  _ZNK10KEmoticons5themeEv@Base 4.96.0
  _ZNK15KEmoticonsTheme12emoticonsMapEv@Base 4.96.0
@@ -70,6 +73,7 @@ libKF5Emoticons.so.5 libkf5emoticons5 #MINVER#, libkf5emoticons-bin
  _ZNK18KEmoticonsProvider10metaObjectEv@Base 4.96.0
  _ZNK18KEmoticonsProvider12emoticonsMapEv@Base 4.96.0
  _ZNK18KEmoticonsProvider14emoticonsIndexEv@Base 4.96.0
+ _ZNK18KEmoticonsProvider21preferredEmoticonSizeEv@Base 5.23.0
  _ZNK18KEmoticonsProvider8fileNameEv@Base 4.96.0
  _ZNK18KEmoticonsProvider9themeNameEv@Base 4.96.0
  _ZNK18KEmoticonsProvider9themePathEv@Base 4.96.0
