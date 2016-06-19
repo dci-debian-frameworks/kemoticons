@@ -1,10 +1,11 @@
-kemoticons (5.23.0-1~1.gbp6f4621) UNRELEASED; urgency=medium
+kemoticons (5.23.0-1~2.gbp4af208) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @6f4621a494650812f99458ad47c889a9576064cb **
+  ** SNAPSHOT build @4af20870c1543fb74dcab2abb8eab33a3e2bc2dc **
 
   * Update build-deps and deps with the info from cmake
+  * Update symbols files.
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Mon, 13 Jun 2016 00:18:36 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sun, 19 Jun 2016 09:48:56 +0200
 
 kemoticons (5.22.0-1) unstable; urgency=medium
 
