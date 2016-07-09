@@ -1,3 +1,11 @@
+kemoticons (5.24.0-1~1.gbpf15ec3) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @f15ec330b7dffc1d380f29f723aff3cdb7149785 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 09 Jul 2016 12:18:20 +0200
+
 kemoticons (5.23.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
