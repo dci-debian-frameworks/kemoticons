@@ -1,11 +1,17 @@
-kemoticons (5.25.0-1~1.gbp794212) UNRELEASED; urgency=medium
+kemoticons (5.25.0-1~2.gbp806c25) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @806c251f418ced5721eb5d5e8a6c77c65278e4be **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @794212af2134f9cdac66203d8074594804ca3aae **
 
   * Update build-deps and deps with the info from cmake
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 13 Aug 2016 12:18:15 +0200
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.25)
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 17 Aug 2016 22:18:21 +0200
 
 kemoticons (5.23.0-1) unstable; urgency=medium
 
