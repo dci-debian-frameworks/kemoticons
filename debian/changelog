@@ -1,10 +1,12 @@
-kemoticons (5.26.0-1~1.gbpc390c4) UNRELEASED; urgency=medium
+kemoticons (5.26.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @c390c4e9a12cfe33900231d13f7914c1aab559c7 **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 10 Sep 2016 18:18:58 +0200
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.26)
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 29 Sep 2016 12:00:55 +0200
 
 kemoticons (5.25.0-1) unstable; urgency=medium
 
