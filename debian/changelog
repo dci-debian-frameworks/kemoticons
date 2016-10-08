@@ -1,3 +1,11 @@
+kemoticons (5.27.0-1~1.gbp87401a) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @87401a92f87efd6eb430247e273947d9a693ef6f **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 08 Oct 2016 12:18:37 +0200
+
 kemoticons (5.26.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
