@@ -1,4 +1,4 @@
-kemoticons (5.36.0-1~) UNRELEASED; urgency=medium
+kemoticons (5.36.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (5.35.0).
@@ -7,6 +7,8 @@ kemoticons (5.36.0-1~) UNRELEASED; urgency=medium
   * Bump group breaks (5.35)
   * watch: Use https uris
   * New upstream release (5.36.0).
+  * Bump group breaks (5.36)
+  * Update build-deps and deps with the info from cmake
 
   [ Raymond Wooninck ]
   * Add signing key
@@ -15,7 +17,7 @@ kemoticons (5.36.0-1~) UNRELEASED; urgency=medium
   [ Jonathan Riddell ]
   * try tests without kded and kinit
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jul 2017 13:43:44 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 09 Jul 2017 23:42:06 +0200
 
 kemoticons (5.28.0-1) unstable; urgency=medium
 
