@@ -32,7 +32,7 @@ Description: Support for emoticons and emoticons themes.
  config file.
  .
  Contains development files for kemoticons.
-Breaks: libkf5kdelibs4support-dev (<< 5.36)
+Breaks: libkf5kdelibs4support-dev (<< 5.37)
 
 Package: libkf5emoticons-bin
 Architecture: any
