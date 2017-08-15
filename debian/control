@@ -77,6 +77,7 @@ Description: Support for emoticons and emoticons themes (documentation)
  config file.
  .
  This package contains the qch documentation files.
+Section: doc
 
 Package: libkf5emoticons5
 Architecture: any
