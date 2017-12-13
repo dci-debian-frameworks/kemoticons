@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 5.23.0 amd64 armhf i386
+# SymbolsHelper-Confirmed: 5.41.0 amd64
 libKF5Emoticons.so.5 libkf5emoticons5 #MINVER#, libkf5emoticons-bin
  _ZN10KEmoticons11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
  _ZN10KEmoticons11qt_metacastEPKc@Base 4.96.0
@@ -20,10 +20,6 @@ libKF5Emoticons.so.5 libkf5emoticons5 #MINVER#, libkf5emoticons-bin
  _ZN15KEmoticonsTheme11addEmoticonERK7QStringS2_N18KEmoticonsProvider17AddEmoticonOptionE@Base 4.96.0
  _ZN15KEmoticonsTheme12setThemeNameERK7QString@Base 4.96.0
  _ZN15KEmoticonsTheme14removeEmoticonERK7QString@Base 4.96.0
- _ZN15KEmoticonsTheme19KEmoticonsThemeDataC1Ev@Base 4.96.0
- _ZN15KEmoticonsTheme19KEmoticonsThemeDataC2Ev@Base 4.96.0
- _ZN15KEmoticonsTheme19KEmoticonsThemeDataD1Ev@Base 4.96.0
- _ZN15KEmoticonsTheme19KEmoticonsThemeDataD2Ev@Base 4.96.0
  _ZN15KEmoticonsTheme4saveEv@Base 4.96.0
  _ZN15KEmoticonsTheme9createNewEv@Base 4.96.0
  _ZN15KEmoticonsTheme9loadThemeERK7QString@Base 4.96.0
